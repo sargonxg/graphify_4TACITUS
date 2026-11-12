@@ -1,5 +1,8 @@
 # Graphify for TACITUS — historical integration fork
 
+<details>
+<summary>TACITUS evaluation scope and optional original 8-bit teaching companion</summary>
+
 <!-- tacitus-practical-entry -->
 ## Purpose, code and a playable introduction
 
@@ -13,6 +16,8 @@ Evaluate code/document graph navigation as a way to understand a TACITUS module 
 
 Research: [RAG](https://arxiv.org/abs/2005.11401), [long-context evidence use](https://arxiv.org/abs/2307.03172), [GraphRAG](https://arxiv.org/abs/2404.16130). [What TACITUS borrows, adds and still needs to measure](https://github.com/sargonxg/sargonxg/blob/main/docs/RESEARCH_AND_DESIGN.md).
 <!-- /tacitus-practical-entry -->
+
+</details>
 
 
 > **Status: completed experiment; no longer maintained.** This fork is retained for provenance and is not an active TACITUS release.
